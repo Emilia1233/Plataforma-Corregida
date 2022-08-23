@@ -1,0 +1,13 @@
+ npm init -y
+
+npm install express ejs mysql nodemon
+
+npm install bcryptjs
+
+Administrador:
+usuario: admi
+contra: 1234
+
+Alumno:
+usuario: alum
+contra: 12345
